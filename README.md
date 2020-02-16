@@ -1,19 +1,21 @@
-# PyBer_Analysis
-Analyze Ride Share Data
-Import your data into a Pandas DataFrame.
-Merge your DataFrames.
-Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
-Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for three city types.
-Determine the mean, median, and mode for the following:
-The total number of rides for each city type.
-The average fares for each city type.
-The total number of drivers for each city type.
-Create box-and-whisker plots that visualize each of the following to determine if there are any outliers:
-The number of rides for each city type.
-The fares for each city type.
-The number of drivers for each city type.
-Create a pie chart that visualizes each of the following data for each city type:
-The percent of total fares.
-The percent of total rides.
-The percent of total drivers.
-Omar has approved the project scope. It’s time to get to work!
+# Challenge
+You’ve been asked by your CEO to create an overall snapshot of the ride-sharing data. In addition to your scatter and pie charts, she would like to see a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
+
+# Objectives
+The goals for this challenge are for you to:
+
+- Use Pandas functions like groupby, pivot, resample, and reset_index on a DataFrame.
+- Use Pandas methods and attributes on a DataFrame or Series.
+- Create a new DataFrame from multiple groupby() Series.
+- Format columns of a DataFrame.
+- Create a multiple-line graph.
+- Annotate and apply styling to the chart.
+
+## Resources
+- Data Source: city_data.csv & ride_data.csv
+- Software: Python 3.6.1, Jupyter Notebook
+
+## Create a Summary DataFrame
+
+![Table1](/analysis/challenge5.png)
+
