@@ -17,4 +17,4 @@ The goals for this challenge are for you to:
 
 ## Create a Summary DataFrame
 
-![Table1](analysis/challenge5.png)
+![Table1](/analysis/challenge5.png)
